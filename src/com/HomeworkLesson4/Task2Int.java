@@ -1,4 +1,4 @@
-package com.HoneworkLesson4;
+package com.HomeworkLesson4;
 
 public class Task2Int {
     public static void main(String[] args) {
